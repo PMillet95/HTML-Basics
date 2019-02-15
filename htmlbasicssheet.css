@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+h1 {
+	text-align: center; 
+	text-decoration: underline;
+	}
+/* This code styles all of the headings with the h1 tag on the html document */
+	
+form {
+	text-align: center;
+	}
+/* This code style all of the forms on the html document */
